@@ -1,0 +1,814 @@
+https://www.zhihu.com/question/297717658
+created time: 2018-10-08 21:57:55
+export time: 2018-10-26 14:25:20
+=============
+vote: 25
+
+今年从审稿和投稿两个层面都参与了AAAI'19， 审稿方面前后参与了十篇审稿，投稿上今年也投了一篇拿到三个reviews，应该说对这次情况还比较了解。 
+<h2>审稿</h2>众所周知，这两年AI顶会投稿量激增，今年AAAI更是收到了7745篇文章，这种量级的审稿任务下如何保证审稿质量其实是很考验会议主席的。 
+于是，今年搞出了一个summary reject，SPC，AC和会议主席先粗略过了一遍文章，直接拒了大约17%的文章，这些文章就不进入接下来的评审环节也收不到review了。当然这个过程中肯定会有误伤，身边也有人中枪了，但是客观来说减轻了下一步审稿的压力，（也许）可以一定程度上保证审稿质量。
+接着幸存的5900+篇文章分配下来，每个审稿人平均审7篇左右，而且值(sang)得(xin)欣(bing)慰(狂)的是，为了在如此高的投稿量下保证会议质量，这次在给PCs的邮件中直接标明今年接受率会控制为18%。要知道AAAI的接受率一般在24%~28%（去年24.6%），今年接受率直接降了近三成。
+不过审稿下来，感觉投稿质量确实是下降了。甚至有直接用截图当图表（图中所有文字信息都看不清）的和一稿多投的文章（很奇怪这类文章第一次怎么没筛掉）。有的文章甚至差到都不想费心去给他写review。
+<h2>投稿</h2>不过收到reviews的时候感觉大部分reviewers还是用了心在写的，分数还行，给的意见也都很诚恳到位，也没有遇到不懂瞎给低分的情况。  
+周围情况看下来，奇葩PC也比较少（当然还是有的。。比如恶意给低分这种情况），应该来说审稿质量还是有一定保证的，没有被稿量冲垮。
+<h2>总结</h2>总的来说，我觉得这次AAAI在将近8000篇这种前所未有的稿量的冲击下，加了desk reject环节，已经通过壮士断腕（自身大幅降低接受率），还是能够在一定程度上保证会议质量和审稿质量，并可以给年底IJCAI的组织（估计稿量依然会爆炸）提供一些经验和借鉴吧。
+
+
+comment_count: 21
+updated_time: 2018-10-25 18:05:08
+https://www.zhihu.com/question/297717658/answer/511969672
+https://www.zhihu.com/people/0
+----------
+vote: 35
+
+评分标准：
+1 - Trivial, wrong, or known
+2 - Strong reject
+3 - Clear reject
+4 - Reject
+5 - Marginally below threshold  
+6 - Marginally above threshold  
+7 - Accept
+8 - Accept (Top 50% accepted papers (est.))
+9 - Accept (Top 15%)
+10 - Accept (Top 5%)
+
+
+comment_count: 6
+updated_time: 2018-10-13 15:28:56
+https://www.zhihu.com/question/297717658/answer/509802380
+https://www.zhihu.com/people/f4915b1a0401433e2798dbd299aef831
+----------
+vote: 34
+
+AAAI 的 review 质量出乎我预料。
+两篇 NLP paper 的 reviewer 都相当了解这个细分方向，很多问题是对一条研究脉络整体都比较熟悉才能问出来的。
+
+
+讽刺的是其中一篇在之前我投 EMNLP 感觉很稳的时候，明显既不熟悉领域又没好好看文章的 reviewer 瞎逼一顿喷，最离奇的是其中一个 comment 说『你没有考虑模型生成的句子有性别歧视怎么办』，和 research 毫无关系，怕不是白左失了智了。还有另一篇 paper 之前得到过一个『请在文章里解释 CNN kernel 的含义，大家不了解这种专业术语』的神评，简直怀疑是不是高中生 reviewer
+
+
+分数上 8 7 6 一篇感觉相对积极，8 6 6 一篇比较 borderline.
+
+
+comment_count: 22
+updated_time: 2018-10-13 11:55:27
+https://www.zhihu.com/question/297717658/answer/509684020
+https://www.zhihu.com/people/c0809289d5c531a966accaf034c96966
+----------
+vote: 2
+
+7-7-6，不知道有多大概率能中…
+感觉审稿质量还是很高的，三个审稿人给的评价比较中肯，问的问题都完美地刺中了文章的要点，而且还蛮不好回答，我此刻正如坐针毡地琢磨怎么怼回去…
+
+
+comment_count: 13
+updated_time: 2018-10-13 10:53:06
+https://www.zhihu.com/question/297717658/answer/509645455
+https://www.zhihu.com/people/b6c019a30e0972d62204a90bbf076b59
+----------
+vote: 9
+
+看了实验室大多数的review意见，视觉方向的review质量一般，个人感觉五五开吧，有一半的review不懂行或者随便看随便给分。
+更关心的应该是，低分的review可能连看rebuttal都不看，分数也不会改。
+
+
+comment_count: 3
+updated_time: 2018-10-14 23:10:04
+https://www.zhihu.com/question/297717658/answer/510706723
+https://www.zhihu.com/people/6a4ebe5b41561d4bb0436b88242e388a
+----------
+vote: 18
+
+根据我自己的经历，PAPER有中的也有不中的，review有好有坏，而且分布还比较平均，中的paper里也有划水的review，不中的paper里也有非常有用的评论。
+所以这问题高分的也是炫耀炫耀，低分挂挂奇葩事情大家乐呵乐呵。最重要的就是能学到一些啥。
+
+
+来说说我的：
+一个重投的工作先前用了个聚类算法，我早先标题里写了无监督，ACL和EMNLP被reviewer一顿狂喷。
+其中一个EMNLP的reviewer问题是“你用无监督算法的动机是什么？”其他前言不搭后语的语法错误若干就不表了，毕竟写paper不注意领域的共同认知还是自己的锅。
+然后这次AAAI，实验重做，聚类算法也换成一个监督模型，结果发现效果更好，认真修改，去掉所有跟聚类算法有关的描述，强调所有训练data有标注，标题自然也改了。
+结果打开review一看：“1、你用无监督算法的动机是什么？”clear reject
+？？？
+语法错误闻起来是同样浓浓的屎味。但毕竟是匿名审稿，也不知道是不是同一个人。
+看这货问的都是一些类似于“你的XX数字为什么比其他人的低”这种"an expert in the area"级别的问题（另外两个高分的knowledgeable都还问了一些算法上的细节问题），能猜想的是，这货先挑了几个不顺眼的数字，再一看对比里有其他人某个包含无监督算法的baseline（毕竟还是要提一下“XXX的工作里用了什么聚类”），就想当然认为我们的工作里也有无监督算法，再去第一页瞄一眼发现没有介绍就开始编了。
+
+
+讲真，我这种没有毕业申请考学压力的人不怕paper被怼，只要怼中了，我照样夸你，ACL的两个reviewer给我3分我都给他们extraordinarily helpful的评分。怼不中的那些，我也不会说质量低，认真写的，直陈自己没看明白的地方，我也会细心去解释，比如跨领域有概念不清的问题，这个不中也只能说下次注意，多写一点。也有中的，那就好好表示感谢。
+但是这种导致一没有中paper（这次我就不下结论，只是之前碰到过的）二无法获得任何进步的低分垃圾review实在是人间之屑。比如我碰到的这种随便编几个不存在的错误，作者沉住气认真写rebuttal最后看都不看，或者来一发“这个错误的确不存在，但是你原文里也没有强调它不存在”，或者是之前NIPS那边有个reviewer要作者去引用截稿后的发表的paper甚至是arXiv上的preprint（ICLR18似乎也有？ACL、EMNLP设置了三个月的安全期也有reviewer违反）。特别是最近好几个会都有人抱怨连metareview没有，在拒信之后push了chair然后发现是AC随便copy paste，偏偏还还就是paste了这些垃圾，这个还有脸叫为research做贡献？
+八张纸，你认真花一个月时间没搞明白，写出来一堆垃圾review，那是智商问题，我还认为你有苦劳，还有阿甘做你的榜样，打打橄榄球四年就毕业了嘛。
+但是类似于某些个在微博里炫耀5个半小时审完11篇paper的家伙（这个是AAAI17的事情，不用去人肉了），还在那边假惺惺地说：“不好意思啊，这次投稿量太大，我自己review得不到位”，想想你们在一个月以前bid paper时，点下那些agreement认同要认真审阅按钮的一刹那，脑子里进的是〇？还是良心被〇给吃了？
+
+
+comment_count: 6
+updated_time: 2018-10-17 05:53:37
+https://www.zhihu.com/question/297717658/answer/511921283
+https://www.zhihu.com/people/0
+----------
+vote: 5
+
+第一次投aaai，856中的概率大吗，8审稿人是是knowledege，剩下两个是expert。。。
+
+comment_count: 17
+updated_time: 2018-10-13 09:36:55
+https://www.zhihu.com/question/297717658/answer/509600513
+https://www.zhihu.com/people/9224b3d6c163462dfbab97064e1e7587
+----------
+vote: 14
+
+第一次审aaai的文章，拿到的6个文章，没有一个及得上nips，icml的6分文章，但平衡了下，每篇平均加了1-2分……平时很少读aaai的文章，真的是普遍这么水么……本人审稿都是ML方向的，别的方向不敢评判…
+
+comment_count: 1
+updated_time: 2018-10-13 18:01:24
+https://www.zhihu.com/question/297717658/answer/509887923
+https://www.zhihu.com/people/0
+----------
+vote: 2
+
+668，一个6是expert，另外两个knowledgeable，能接受的概率大吗？
+
+
+comment_count: 3
+updated_time: 2018-10-13 22:41:30
+https://www.zhihu.com/question/297717658/answer/510040394
+https://www.zhihu.com/people/c53e472f5daa5b82ec880365dba3214a
+----------
+vote: 0
+
+为啥我收到了了五个reviewer？？？分别是6 9 2 5 7. 那个给strong reject一顿瞎比比，我感觉根本没有看我的文章就写review了
+
+
+comment_count: 9
+updated_time: 2018-10-18 16:35:04
+https://www.zhihu.com/question/297717658/answer/513338529
+https://www.zhihu.com/people/0
+----------
+vote: 10
+
+来给大家提个醒，这次AAAI的rebuttal不能放任何外部链接的，按违反双盲处理。
+邮件里面有详细说明：
+<figure><noscript><img src="https://pic3.zhimg.com/v2-1f2bd50c5fe762f97fd050e1610c05ce_b.jpg" data-rawwidth="1674" data-rawheight="1112" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-53cc0f40e928d5f17f4537199fb9d821_b.jpg" class="origin_image zh-lightbox-thumb" width="1674" data-original="https://pic3.zhimg.com/v2-1f2bd50c5fe762f97fd050e1610c05ce_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1674'%20height='1112'&gt;&lt;/svg&gt;" data-rawwidth="1674" data-rawheight="1112" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/v2-53cc0f40e928d5f17f4537199fb9d821_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1674" data-original="https://pic3.zhimg.com/v2-1f2bd50c5fe762f97fd050e1610c05ce_r.jpg" data-actualsrc="https://pic3.zhimg.com/v2-1f2bd50c5fe762f97fd050e1610c05ce_b.jpg"></figure>
+
+
+comment_count: 6
+updated_time: 2018-10-16 12:37:27
+https://www.zhihu.com/question/297717658/answer/511784996
+https://www.zhihu.com/people/26dd2090cf34a2fa2c9b487232250c6c
+----------
+vote: 3
+
+776,6是expert,两个7是knowledgeable in the area,不知道能不能中. 
+另外acceptance rate降到了18%了吗,有没有知道准确消息的.... 
+<figure><noscript><img src="https://pic2.zhimg.com/v2-f777f31b610adac319539cd13d3efe55_b.jpg" data-caption="" data-size="normal" data-rawwidth="633" data-rawheight="891" data-default-watermark-src="https://pic2.zhimg.com/v2-f777f31b610adac319539cd13d3efe55_b.jpg" class="origin_image zh-lightbox-thumb" width="633" data-original="https://pic2.zhimg.com/v2-f777f31b610adac319539cd13d3efe55_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='633'%20height='891'&gt;&lt;/svg&gt;" data-caption="" data-size="normal" data-rawwidth="633" data-rawheight="891" data-default-watermark-src="https://pic2.zhimg.com/v2-f777f31b610adac319539cd13d3efe55_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="633" data-original="https://pic2.zhimg.com/v2-f777f31b610adac319539cd13d3efe55_r.jpg" data-actualsrc="https://pic2.zhimg.com/v2-f777f31b610adac319539cd13d3efe55_b.jpg"></figure>放个往年的acceptance rate
+<figure><noscript><img src="https://pic3.zhimg.com/v2-be44c3752012ace1e4704359c06f620e_b.jpg" data-caption="" data-size="normal" data-rawwidth="2776" data-rawheight="2120" data-default-watermark-src="https://pic3.zhimg.com/v2-be44c3752012ace1e4704359c06f620e_b.jpg" class="origin_image zh-lightbox-thumb" width="2776" data-original="https://pic3.zhimg.com/v2-be44c3752012ace1e4704359c06f620e_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2776'%20height='2120'&gt;&lt;/svg&gt;" data-caption="" data-size="normal" data-rawwidth="2776" data-rawheight="2120" data-default-watermark-src="https://pic3.zhimg.com/v2-be44c3752012ace1e4704359c06f620e_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="2776" data-original="https://pic3.zhimg.com/v2-be44c3752012ace1e4704359c06f620e_r.jpg" data-actualsrc="https://pic3.zhimg.com/v2-be44c3752012ace1e4704359c06f620e_b.jpg"></figure>
+
+
+comment_count: 12
+updated_time: 2018-10-13 11:22:23
+https://www.zhihu.com/question/297717658/answer/509657432
+https://www.zhihu.com/people/0
+----------
+vote: 5
+
+
+<figure><noscript><img src="https://pic2.zhimg.com/v2-2acd2cb5325ae542095406b625bbc345_b.jpg" data-caption="" data-size="normal" data-rawwidth="1182" data-rawheight="1134" data-default-watermark-src="https://pic2.zhimg.com/v2-2acd2cb5325ae542095406b625bbc345_b.jpg" class="origin_image zh-lightbox-thumb" width="1182" data-original="https://pic2.zhimg.com/v2-2acd2cb5325ae542095406b625bbc345_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1182'%20height='1134'&gt;&lt;/svg&gt;" data-caption="" data-size="normal" data-rawwidth="1182" data-rawheight="1134" data-default-watermark-src="https://pic2.zhimg.com/v2-2acd2cb5325ae542095406b625bbc345_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1182" data-original="https://pic2.zhimg.com/v2-2acd2cb5325ae542095406b625bbc345_r.jpg" data-actualsrc="https://pic2.zhimg.com/v2-2acd2cb5325ae542095406b625bbc345_b.jpg"></figure>
+
+
+comment_count: 7
+updated_time: 2018-10-13 18:35:26
+https://www.zhihu.com/question/297717658/answer/509824618
+https://www.zhihu.com/people/0
+----------
+vote: 9
+
+654
+已经没什么好失去的了 
+
+
+comment_count: 8
+updated_time: 2018-10-13 15:33:50
+https://www.zhihu.com/question/297717658/answer/509805180
+https://www.zhihu.com/people/0a3cffd4427c90a63911fcff9c9c99b6
+----------
+vote: 0
+
+请问一下，现在收到rebuttal通知了吗？我的怎么还没有啊？
+
+
+comment_count: 10
+updated_time: 2018-10-13 08:22:39
+https://www.zhihu.com/question/297717658/answer/509566782
+https://www.zhihu.com/people/8076c42a6db2f6c6d219185dfb236166
+----------
+vote: 8
+
+抽奖大会有意见吗？
+
+
+提升率是(A-B)/B吧？直接看 A-B是几个意思？
+————————————-
+高分的在说评审质量高，那是你没碰到蠢reviewer,我这个连提升率都不会算，然后说不显著，语气还很强硬。上哪说理去？
+
+
+comment_count: 6
+updated_time: 2018-10-14 18:18:24
+https://www.zhihu.com/question/297717658/answer/509680448
+https://www.zhihu.com/people/0
+----------
+vote: 4
+
+我发现：分数高的审稿质量好，分数低的都说审稿人垃圾。
+
+
+comment_count: 0
+updated_time: 2018-10-16 20:44:38
+https://www.zhihu.com/question/297717658/answer/512107733
+https://www.zhihu.com/people/8e8b2ed86e8cc081af5d3dee9c121709
+----------
+vote: 34
+
+懒得吐槽什么了，我贴一个Reviewer的QS和我的ANS
+<ul><li>QS: All the components in the proposed algorithm are known. The novelty of the method is quite limited.</li></ul>对此我只想说.
+<ul><li>ANS: Chemical elements have been existed for millions of years, but the discovery of them leads to Nobel prize.</li></ul>
+
+
+
+comment_count: 10
+updated_time: 2018-10-14 13:27:56
+https://www.zhihu.com/question/297717658/answer/510362962
+https://www.zhihu.com/people/b308940f131d8811bc083af1df637a1f
+----------
+vote: 1
+
+才发现原来不是所有人都是三个expert噗，个人体验到的review质量都很高，提的问题细致也很有深度，感觉就是投好的会议真的不亏，还可以获得学习高质量review的机会（也可能是我运气好吧
+赶rebuttal去了（逃
+
+
+comment_count: 2
+updated_time: 2018-10-13 14:48:15
+https://www.zhihu.com/question/297717658/answer/509626943
+https://www.zhihu.com/people/a77045655e57e627256a07ea10c2c26b
+----------
+vote: 4
+
+认识一哥们，NIPS总分15被拒，AAAI总分23，直接转投的。
+审稿是一门玄学，和神经网络参数调的好不好一样，很随机的。
+
+
+另外，评论上单词都有拼错的，还自称是专家，例如“seperate”“exsting” “a a”。就这些单词错误，我是无法认同AAAI的审稿意见有多和谐。
+
+
+comment_count: 5
+updated_time: 2018-10-14 21:45:36
+https://www.zhihu.com/question/297717658/answer/509781201
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+458
+4knowledge
+58expert
+
+
+comment_count: 1
+updated_time: 2018-10-13 15:46:28
+https://www.zhihu.com/question/297717658/answer/509812599
+https://www.zhihu.com/people/0
+----------
+vote: 2
+
+887，估计差不多?不过感觉现在AAAI的审稿意见也就随便看看就行了，我觉得审稿人并没有真读明白。实验室同学明显很棒的工作反而是664。感觉CCF再评级的话，AAAI/IJCAI之流堪忧啊。
+
+
+comment_count: 4
+updated_time: 2018-10-14 16:38:07
+https://www.zhihu.com/question/297717658/answer/510470785
+https://www.zhihu.com/people/0
+----------
+vote: 1
+
+我之前做应数，去年改的计算机。第一次投，问哈755的机会多大。谢谢各位大佬！
+
+
+comment_count: 6
+updated_time: 2018-10-13 13:04:56
+https://www.zhihu.com/question/297717658/answer/509722131
+https://www.zhihu.com/people/cd3646f7b185b87c8550bb1c70d335c2
+----------
+vote: 1
+
+做网络压缩方向的，865，5那个是out of aera，但老板说有点悬，还是好好rebuttal争取把那个人说服吧。
+
+
+comment_count: 3
+updated_time: 2018-10-13 12:59:06
+https://www.zhihu.com/question/297717658/answer/509718900
+https://www.zhihu.com/people/ec12ec1d830cfe6a68259a11ac6b4b48
+----------
+vote: 0
+
+请大家在下方评论，1-10各代表什么，好想知道，目前已知4-Reject 5-Marginally below threshold，对这就是我得到的，emmm
+
+
+comment_count: 1
+updated_time: 2018-10-13 15:36:39
+https://www.zhihu.com/question/297717658/answer/509806766
+https://www.zhihu.com/people/e157a60bc111158702dada5175eeab9f
+----------
+vote: 1
+
+哈哈第一次投稿，reject了，445，感觉还ok。
+
+
+comment_count: 9
+updated_time: 2018-10-13 11:22:38
+https://www.zhihu.com/question/297717658/answer/509664189
+https://www.zhihu.com/people/cfea5b379d41846c6768e37b8afffb51
+----------
+vote: 1
+
+这个是在子领域里面比得分还是所有一起比呀？做推荐的朋友你们给了多少分呀？
+
+
+comment_count: 2
+updated_time: 2018-10-15 00:41:58
+https://www.zhihu.com/question/297717658/answer/510765121
+https://www.zhihu.com/people/0
+----------
+vote: 1
+
+三个reviewer都是out of the area的 不知道该上哪哭去 
+
+
+comment_count: 2
+updated_time: 2018-10-13 13:22:52
+https://www.zhihu.com/question/297717658/answer/509731723
+https://www.zhihu.com/people/0
+----------
+vote: 1
+
+已经在cmt的投稿系统里看到啦。。。所以说大家都多少分啊？感觉希望大不大？
+
+
+
+
+题外话：
+前天连续收到两封rebuttal的通知。。。不知道为啥，结果仔细一看，原来是标题一个是rebuttal一个是rebuttals。。。（周老师真的很严格啊哈哈哈）
+今天凌晨的邮件是说，因为rebuttal period在周末，所以为了work/life ballance，就把rebuttal deadline推迟了一天，到PDT16号17:00.也就是北京时间17号早上8点（算错了不负责啊。。）各位小伙伴加油吧23333
+
+
+
+comment_count: 1
+updated_time: 2018-10-13 09:11:44
+https://www.zhihu.com/question/297717658/answer/509588053
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+弱弱的问一句。。confidence等级是怎么划分的？"Reviewer made an educated guess"和"Reviewer is knowledgeable but out of the area"哪个confidence更强？感觉好像都不是领域内的？
+
+
+comment_count: 11
+updated_time: 2018-10-13 09:39:46
+https://www.zhihu.com/question/297717658/answer/509601992
+https://www.zhihu.com/people/7b5d538293316f7346547df780f54394
+----------
+vote: 0
+
+一篇8-6-5，8和5是expert，6是knowledgeable。另一篇8-7-4，8是expert，另外两个是knowledgeable。
+心里慌慌
+
+
+comment_count: 2
+updated_time: 2018-10-14 09:23:21
+https://www.zhihu.com/question/297717658/answer/507450067
+https://www.zhihu.com/people/9fe995baa06941a52c01fbed388a79ba
+----------
+vote: 0
+
+听今年AC说今年会录取1200篇左右，录取率只有18左右。按照nips的难度，听说nips有885被拒的文章。。。。
+本人第一次投top，得分456。。。审稿意见还是挺中肯的
+
+
+comment_count: 6
+updated_time: 2018-10-15 01:18:37
+https://www.zhihu.com/question/297717658/answer/510779821
+https://www.zhihu.com/people/23537bac2c593480e62ac78da1878fac
+----------
+vote: 0
+
+三个expert，给5的这个人对我这个领域应该是钻研过的，patch写成了path被发现了，公式的问题看出来了，引用的时候别人的performance的问题也能指出来，还有就是让做的补充实验也是很核心的。另外两个人说的也还是可以的，感觉的到对这个领域还是特别熟悉的。
+
+
+comment_count: 6
+updated_time: 2018-10-13 13:48:45
+https://www.zhihu.com/question/297717658/answer/509745841
+https://www.zhihu.com/people/0
+----------
+vote: 2
+
+7 7 4有没有机会呀，4分那个像是来找碴的。直接说题目不有趣，paper不clear，也没说哪裡不clear。另一个reviewer还说This paper is well-written and clear呢
+
+
+comment_count: 3
+updated_time: 2018-10-14 11:59:28
+https://www.zhihu.com/question/297717658/answer/510314096
+https://www.zhihu.com/people/47ea6c79b6e133344bf3b254bedce3a9
+----------
+vote: 2
+
+CCF Ａ就是它的遮羞布
+
+
+comment_count: 4
+updated_time: 2018-10-18 07:07:57
+https://www.zhihu.com/question/297717658/answer/512966226
+https://www.zhihu.com/people/0
+----------
+vote: 1
+
+请问大家知道今年的boarderline几分呢？感觉大家分数都很高呀，我是5，6，7
+
+
+comment_count: 1
+updated_time: 2018-10-15 03:01:00
+https://www.zhihu.com/question/297717658/answer/510800715
+https://www.zhihu.com/people/6775d55c520d2eb39d509c81ca25fd7c
+----------
+vote: 1
+
+我的评分7,6,5估计是凉了，5分的那个knowledgeable审稿人直接说效果不明显，而其他两个审稿人都说效果好明显，真的服了
+
+
+comment_count: 4
+updated_time: 2018-10-14 23:58:24
+https://www.zhihu.com/question/297717658/answer/510740307
+https://www.zhihu.com/people/0
+----------
+vote: 1
+
+只有我一个是114吗
+
+
+comment_count: 6
+updated_time: 2018-10-14 12:22:32
+https://www.zhihu.com/question/297717658/answer/510327074
+https://www.zhihu.com/people/0
+----------
+vote: 1
+
+4/5/6....感觉希望很低。我做的东西是土木工程和ML的结合,感觉审稿人看不懂土木的东西就随便给一些comments...
+
+
+comment_count: 2
+updated_time: 2018-10-13 20:47:05
+https://www.zhihu.com/question/297717658/answer/509972947
+https://www.zhihu.com/people/7c87851425ae3222dbe52b298600c53f
+----------
+vote: 1
+
+今年是不是普遍高分呀，一轮看下来基本均分6点几以上
+
+
+comment_count: 4
+updated_time: 2018-10-13 14:44:50
+https://www.zhihu.com/question/297717658/answer/509777726
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+我的得分是7，6，6   CV方向
+感觉给6的两个reviewer没有太看懂我的paper
+昨天写了满满6000字符的rebuttal交了上去
+第一次投顶会，希望好运吧
+
+
+comment_count: 30
+updated_time: 2018-10-18 13:54:38
+https://www.zhihu.com/question/297717658/answer/513228299
+https://www.zhihu.com/people/55ee0200492ac8e7997f6016e11c8665
+----------
+vote: 0
+
+There are four reviews. My ratings are 7 6 6 5.
+5 is out of area
+7 and one 6 are knowledgeable
+One 6 is expert.
+Is there any chance to get in?
+
+
+
+comment_count: 1
+updated_time: 2018-10-17 22:10:50
+https://www.zhihu.com/question/297717658/answer/512838365
+https://www.zhihu.com/people/305d49a0235eaa64c2313f92a09beac9
+----------
+vote: 0
+
+7 6 6 请问中的机会大吗？7是expert, 6是knowledgeable...
+
+
+comment_count: 1
+updated_time: 2018-10-17 12:13:24
+https://www.zhihu.com/question/297717658/answer/512478082
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+不是有说7745篇总投稿，筛成了5900+，按总投稿的18%算，5900篇有效投稿录取率也有23.6%，1390来篇。但是也有说只录用1200篇的。情况不明，只能等到11月1号了。
+
+
+comment_count: 0
+updated_time: 2018-10-17 10:43:34
+https://www.zhihu.com/question/297717658/answer/512410142
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+7(knowledge) 6(expert) 2(knowledge)求问有没有可能…同第一次投
+
+
+comment_count: 2
+updated_time: 2018-10-15 14:56:58
+https://www.zhihu.com/question/297717658/answer/511132631
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+rebuttal可以多次提交吗，有人提交过了没
+
+comment_count: 2
+updated_time: 2018-10-14 20:10:54
+https://www.zhihu.com/question/297717658/answer/510591836
+https://www.zhihu.com/people/e753dd1c072714b07d7841652f7e0daa
+----------
+vote: 0
+
+10 8 5 三个都是knowledgeable. 给分说起来都很自信的样子。
+搞不懂为啥会有这么大的偏差……
+
+
+comment_count: 1
+updated_time: 2018-10-14 19:06:55
+https://www.zhihu.com/question/297717658/answer/510556675
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+877，但是没有expert，不知道confidence影响有多大
+
+
+comment_count: 0
+updated_time: 2018-10-14 17:32:41
+https://www.zhihu.com/question/297717658/answer/510503225
+https://www.zhihu.com/people/7a14a96810a4ea8374059983ff478dde
+----------
+vote: 0
+
+被一个expert给了2分，同样一段评论，连续粘贴四遍（Summary，comments，question，甚至12 应该在rebuttal后写的都写了），四段内容一模一样。强调说问题A完全不是现有问题，没有任何建议意见，该reject，然而我明明研究的问题B。文章是做nlp的，他说我这方法在cv不一定work，总结就是服气
+
+comment_count: 2
+updated_time: 2018-10-14 15:30:42
+https://www.zhihu.com/question/297717658/answer/510432829
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+655还有没有希望？review的意见都还算中肯，三个都是knowledgeable。现在自己瑟瑟发抖，上火
+
+
+comment_count: 5
+updated_time: 2018-10-14 13:35:01
+https://www.zhihu.com/question/297717658/answer/510367210
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+9 4 9,一个9是expert，两个knowledgable，想办法把4圆回去吧……
+
+
+comment_count: 0
+updated_time: 2018-10-14 13:08:53
+https://www.zhihu.com/question/297717658/answer/510353586
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+578，都是expert，给5的那个明显没看懂，尽问一些弱智问题。总体来说，意见很少，我觉得不如acl，emnlp的审稿，不是为了毕业要求，还不如投naacl呢
+
+
+comment_count: 2
+updated_time: 2018-10-14 09:14:18
+https://www.zhihu.com/question/297717658/answer/510215081
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+9 6 5 可能是方法太新，意见分歧很大了。。
+
+
+comment_count: 0
+updated_time: 2018-10-14 08:58:36
+https://www.zhihu.com/question/297717658/answer/510206909
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+6-6-7，还有机会吗？ 看今年6000+的投稿总数真心好慌。。
+个人感觉审稿意见还是挺专业的，就是有的问题真心不好回答。。
+祝大家都好运吧。。
+
+
+comment_count: 1
+updated_time: 2018-10-14 00:33:18
+https://www.zhihu.com/question/297717658/answer/510109446
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+请教各位大神，对于5分的review，Rebuttal能work吗？能掰回来吗？
+
+
+comment_count: 2
+updated_time: 2018-10-13 19:50:44
+https://www.zhihu.com/question/297717658/answer/509943645
+https://www.zhihu.com/people/397a47381553a7e764cffdfda8ea1132
+----------
+vote: 0
+
+6-6-4 都是knowledge 4那个居然把detailed comment原封不动粘到question里面，根本一个问题都没问。
+
+
+comment_count: 3
+updated_time: 2018-10-13 18:35:44
+https://www.zhihu.com/question/297717658/answer/509904691
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+emmm 非一作，第一次投。553，没有expert，一个5是out of area，已然放弃治疗。。。意见出乎意料的中肯，准备根据意见转投了。
+
+
+comment_count: 0
+updated_time: 2018-10-13 17:08:03
+https://www.zhihu.com/question/297717658/answer/509860173
+https://www.zhihu.com/people/e8e31626f25b3246ec102ba0a1e3ab4b
+----------
+vote: 0
+
+只有二个审稿人，都没看懂论文的点，提的问题牛头不对马嘴，只给了3和5。详细看完后快吐血了！
+
+
+comment_count: 1
+updated_time: 2018-10-13 16:46:52
+https://www.zhihu.com/question/297717658/answer/509847897
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+有没有只收到两个评审意见的。。。目前只有两个expert评价
+
+
+comment_count: 4
+updated_time: 2018-10-13 16:43:54
+https://www.zhihu.com/question/297717658/answer/509846346
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+4/6/6，4分那个自称expert但是像是故意找茬，应该怎么办？
+
+
+comment_count: 3
+updated_time: 2018-10-13 16:37:41
+https://www.zhihu.com/question/297717658/answer/509842852
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+8-5-5，8为expert，这是什么情况？第一次投
+
+
+comment_count: 0
+updated_time: 2018-10-13 16:17:04
+https://www.zhihu.com/question/297717658/answer/509830518
+https://www.zhihu.com/people/7a4de25c99781bb36dee81f3d6e2e357
+----------
+vote: 0
+
+为什么  我有四个  reviewer
+7 7 6 5  不知道 能中吗  求问各位
+
+
+comment_count: 5
+updated_time: 2018-10-13 14:32:09
+https://www.zhihu.com/question/297717658/answer/509770125
+https://www.zhihu.com/people/9164c0dd5bd4009ee0b0723c1f47719f
+----------
+vote: 0
+
+想问下各位大佬，9 6 4算是什么水平，有中的概率吗？概率大吗？4是expert，6和9都是knowledgeable。。。
+
+
+comment_count: 17
+updated_time: 2018-10-13 13:52:40
+https://www.zhihu.com/question/297717658/answer/509747725
+https://www.zhihu.com/people/c5e42db7ed847ab8161945b017728e3a
+----------
+vote: 0
+
+755感觉好凉……而且两个5是in the area，7是out of the area……
+
+
+comment_count: 4
+updated_time: 2018-10-13 10:43:51
+https://www.zhihu.com/question/297717658/answer/509639678
+https://www.zhihu.com/people/c026d852907e38b4d18b9d868f1c3bbe
+----------
+vote: 0
+
+已经出了，766，但被长篇大论的怼 。有谁知道综合评分那里等级是怎么规定的？是1～9分吗？
+
+
+comment_count: 7
+updated_time: 2018-10-13 11:20:23
+https://www.zhihu.com/question/297717658/answer/509590757
+https://www.zhihu.com/people/ed8328c79b88d441bccd381f5e09ed92
+----------
+vote: 0
+
+审稿结果不是还没出来呢吗？怎么知道审稿结果如何呢
+
+
+comment_count: 1
+updated_time: 2018-10-10 22:04:49
+https://www.zhihu.com/question/297717658/answer/507990735
+https://www.zhihu.com/people/15d86d0d7516c73ced276febc3e44942
+----------
+vote: 0
+
+麻烦问下各位大佬
+866中的希望大么，第一次投aaai。
+其中一个6是out of area，没怎么给意见，剩下呢86都是knowledgeable，意见给的比较充分。
+
+
+原：
+今天又发了封邮件，rebuttal是延了一天么？
+
+
+comment_count: 14
+updated_time: 2018-10-13 09:20:38
+https://www.zhihu.com/question/297717658/answer/507443844
+https://www.zhihu.com/people/4e664743c11e81ac3fbee8cc80b29b11
+----------
+vote: 0
+
+貌似aaai给发了rebuttal的邮件，请问这个是需要rebuttal的才会收到吗？
+
+
+comment_count: 4
+updated_time: 2018-10-09 00:40:31
+https://www.zhihu.com/question/297717658/answer/506656208
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+请问下，我可以放上一个link to anonymous github 和一个anonymous doc么？
+有些人说这个可以，有些说不可以，官网上面没有明确的指示。
+==========================
+大哥们，我的是7 3 6，我还有必要去rebuttal么？
+
+
+comment_count: 23
+updated_time: 2018-10-15 09:28:04
+https://www.zhihu.com/question/297717658/answer/509589066
+https://www.zhihu.com/people/eaaff8a6d64ca5ce0bf54900df3cc8b3
+----------
+vote: 0
+
+分数是556
+感觉审稿人是领域内的人，但是我解决的方法有点超出领域的范围，所以感觉审稿人有些地方没有看懂。而且审稿人让补充了很多对比实验，基本上所有的审稿人的问题都回答了，实验做了，motivation跟contribution也强调了，甚至还在私信栏中吹了一下自己，希望有奇迹发生。继续做实验去了~
+We have nothing to lose in rebuttal.
+加油加油
+
+
+comment_count: 0
+updated_time: 2018-10-18 19:47:23
+https://www.zhihu.com/question/297717658/answer/507116447
+https://www.zhihu.com/people/0
+----------
+vote: 0
+
+说实话我遇到的六个审稿人看上去质量都非常高。
+第一篇文章是一个新的应用，第一个审稿人明显是搞相关方向的，而且明白主次。审稿意见非常中肯，肯定和否定的点都很专业。第二个审稿人也是识大体，明白主次的。第三个审稿人有些过分纠结算法创新，不过也是可以理解，从意见中可以明显看出这个人是明白整个领域发展的而且正在 follow 前沿研究的。
+第二篇文章的 novelty 其实投的时候我就觉得有点悬，审稿人的意见也应证了我的判断，总体来说审稿人的质量是可以的，并没有我朋友讲的那么的不堪。
+
+
+估计是我运气好，奇葩审稿人我是一直没遇到，这么些个会议。看来奇葩审稿人全都被知友碰上了哈哈哈。
+
+
+comment_count: 0
+updated_time: 2018-10-16 00:12:59
+https://www.zhihu.com/question/297717658/answer/511494197
+https://www.zhihu.com/people/0
+----------
